@@ -15,7 +15,7 @@ A calculator is a device that performs arithmetic operations on numbers. Basic c
  The division (divide function) is used by clicking on the "÷" button or using the keyboard "÷"key. The function results in a/b.
 
  
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
+#### This web page is hosted [here!](https://calculator-by-shahid.netlify.app/)
 
 # Features
 
